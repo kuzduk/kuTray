@@ -1,0 +1,20 @@
+object Form2: TForm2
+  Left = 514
+  Top = 394
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsSingle
+  Caption = 'Form2'
+  ClientHeight = 152
+  ClientWidth = 301
+  Color = clYellow
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsStayOnTop
+  OldCreateOrder = False
+  Position = poDesigned
+  PixelsPerInch = 96
+  TextHeight = 13
+end
